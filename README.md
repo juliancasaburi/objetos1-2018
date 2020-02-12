@@ -1,5 +1,5 @@
 # objetos1-2018
-[Plan de Estudio ORIENTACIÓN A OBJETOS 1 - UNIVERSIDAD NACIONAL DE LA PLATA FACULTAD DE INFORMÁTICA](https://www.info.unlp.edu.ar/wp-content/uploads/2018/05/Orientaci%C3%B3n-a-Objetos-I.pdf)
+[Ver reglamento de ORIENTACIÓN A OBJETOS 1 - UNIVERSIDAD NACIONAL DE LA PLATA FACULTAD DE INFORMÁTICA](Orientación-a-Objetos-I.pdf)
  
 ## OBJETIVOS GENERALES
 1. Presentar formalmente el paradigma de objetos, sus características, ventajas y aplicaciones dentro del desarrollo de sistemas de software
